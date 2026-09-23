@@ -3,7 +3,11 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5CFF,50:00C2FF,100:00E5A8&height=220&section=header&text=NAVEEN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION%20%7C%20DIGITAL%20TECH&descAlignY=60&descSize=17"/>
+  <img
+    src="./github-header.gif"
+    width="100%"
+    alt="Naveen Kumar - Full Stack Developer AI and Automation"
+  />
 </p>
 
 <!-- ========================= -->
